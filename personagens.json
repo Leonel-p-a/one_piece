@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Monkey D. Luffy",
+    "alcunha": "Chapéu de Palha",
+    "fruta": "Gomu Gomu no Mi",
+    "recompensa": "3.000.000.000 Berries",
+    "imagem": "img/luffy.webp",
+    "descricao": "Capitão dos Piratas do Chapéu de Palha, com o sonho de se tornar o Rei dos Piratas."
+  },
+  {
+    "id": 2,
+    "nome": "Roronoa Zoro",
+    "alcunha": "Caçador de Piratas",
+    "fruta": null,
+    "recompensa": "1.111.000.000 Berries",
+    "imagem": "img/zoro.jpg",
+    "descricao": "Espadachim que usa três espadas e é o primeiro membro a se juntar à tripulação de Luffy."
+  },
+  {
+    "id": 3,
+    "nome": "Nami",
+    "alcunha": "Gata Ladra",
+    "fruta": null,
+    "recompensa": "366.000.000 Berries",
+    "imagem": "img/nami.jpg",
+    "descricao": "Navegadora dos Chapéus de Palha, especialista em clima e mapas."
+  },
+  {
+    "id": 4,
+    "nome": "Usopp",
+    "alcunha": "God Usopp",
+    "fruta": null,
+    "recompensa": "500.000.000 Berries",
+    "imagem": "img/usopp.png",
+    "descricao": "Atirador dos Chapéus de Palha, um grande mentiroso e inventor."
+  },
+  {
+    "id": 5,
+    "nome": "Sanji",
+    "alcunha": "Perna Negra",
+    "fruta": null,
+    "recompensa": "1.032.000.000 Berries",
+    "imagem": "img/sanji.jpg",
+    "descricao": "Cozinheiro dos Chapéus de Palha, um mulherengo com um grande código de honra."
+  }
+]
