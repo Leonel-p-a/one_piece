@@ -3,11 +3,11 @@
     "id": 1,
     "nome": "Monkey D. Luffy",
     "alcunha": "Chapéu de Palha",
-    "fruta": "Gomu Gomu no Mi",
+    "fruta": "Hito Hito no Mi, Modelo: Nika",
     "recompensa": "3.000.000.000 Berries",
     "imagem": "img/luffy.webp",
     "descricao": "Capitão dos Piratas do Chapéu de Palha, com o sonho de se tornar o Rei dos Piratas.",
-    "texto": "Monkey D. Luffy, mais conhecido como \"Luffy Chapéu de Palha\" ou simplesmente \"Chapéu de Palha\", é o fundador, capitão e combatente mais forte dos cada vez mais infames e poderosos Piratas do Chapéu de Palha. Ele busca destemidamente o lendário tesouro do falecido Gol D. Roger para se tornar o novo Rei dos Piratas, e realizar um sonho ainda não revelado (atualmente conhecido apenas por sua tripulação e amigos mais próximos). Ele acredita que ser o Rei dos Piratas significa ter a maior liberdade do mundo./nNascido na Ilha Dawn, Luffy é filho do líder dos revolucionários Monkey D. Dragon e neto do herói da Marinha Monkey D. Garp e, como tal, é membro do Clã dos D. A maior parte de sua infância foi moldada por Garp e Curly Dadan, durante a qual fez amizade e jurou irmandade ao falecido Ace \"Punhos de Fogo\" e Sabo. No entanto, sua maior inspiração foi o pirata Shanks, \"o Ruivo\", que (sem querer) permitiu que ele comesse a Akuma no Mi que transformou seu corpo em borracha, sacrificou um braço para salvar sua vida e lhe deu seu chapéu de palha como símbolo da promessa de se reunirem um dia, depois que Luffy se tornasse um grande pirata./nComo pirata, Luffy se opôs ativamente a inúmeras potências regionais, nacionais e globais, começando com vários piratas renomados do East Blue e se estendendo até a Marinha, os Shichibukai, a Cipher Pol, os Nobres Mundiais e até mesmo os Quatro Imperadores. Apesar da pouca idade e da carreira relativamente curta, ele triunfou sobre a maioria deles, tendo invadido com sucesso e causado indiretamente a aniquilação de Enies Lobby, escapado da impenetrável Impel Down, possibilitado vários desenvolvimentos importantes na Guerra de Marineford, e derrotado três Shichibukai e um Imperador em combate direto. Ao mesmo tempo, ele tem uma grande propensão a atrair amigos e aliados; além de envolver pessoalmente cada membro de sua tripulação, ele conquistou a consideração e a gratidão de muitas nações, de outros piratas, do Exército Revolucionário e até mesmo de vários marinheiros./nLuffy ganhou grande infâmia por suas realizações, herança sanguínea e imprudência geral, atraindo muitas recompensas grandes, bem como a hostilidade concentrada do Governo Mundial, do Quartel-General da Marinha e do Almirante da Frota Sakazuki em particular. Atualmente, ele é reconhecido como um membro central da Pior Geração, o líder (contra sua vontade) da Grande Frota do Chapéu de Palha e - após derrotar Kaidou durante o Ataque à Onigashima - um dos Quatro Imperadores, com uma recompensa de 3.000.000.000. Após o despertar da Gomu Gomu no Mi depois de séculos, Luffy também foi aclamado por alguns como a segunda vinda de Joy Boy./nEle é o principal protagonista da série de mangá e anime One Piece."
+    "texto": "Monkey D. Luffy, mais conhecido como \"Luffy Chapéu de Palha\" ou simplesmente \"Chapéu de Palha\", é o fundador, capitão e combatente mais forte dos cada vez mais infames e poderosos Piratas do Chapéu de Palha. Ele busca destemidamente o lendário tesouro do falecido Gol D. Roger para se tornar o novo Rei dos Piratas, e realizar um sonho ainda não revelado (atualmente conhecido apenas por sua tripulação e amigos mais próximos). Ele acredita que ser o Rei dos Piratas significa ter a maior liberdade do mundo./nNascido na Ilha Dawn, Luffy é filho do líder dos revolucionários Monkey D. Dragon e neto do herói da Marinha Monkey D. Garp e, como tal, é membro do Clã dos D. A maior parte de sua infância foi moldada por Garp e Dadan, durante a qual fez amizade e jurou irmandade ao falecido Ace \"Punhos de Fogo\" e Sabo. No entanto, sua maior inspiração foi o pirata Shanks, \"o Ruivo\", que (sem querer) permitiu que ele comesse a Akuma no Mi que transformou seu corpo em borracha, sacrificou um braço para salvar sua vida e lhe deu seu chapéu de palha como símbolo da promessa de se reunirem um dia, depois que Luffy se tornasse um grande pirata./nComo pirata, Luffy se opôs ativamente a inúmeras potências regionais, nacionais e globais, começando com vários piratas renomados do East Blue e se estendendo até a Marinha, os Shichibukai, a Cipher Pol, os Nobres Mundiais e até mesmo os Quatro Imperadores. Apesar da pouca idade e da carreira relativamente curta, ele triunfou sobre a maioria deles, tendo invadido com sucesso e causado indiretamente a aniquilação de Enies Lobby, escapado da impenetrável Impel Down, possibilitado vários desenvolvimentos importantes na Guerra de Marineford, e derrotado três Shichibukai e um Imperador em combate direto. Ao mesmo tempo, ele tem uma grande propensão a atrair amigos e aliados; além de envolver pessoalmente cada membro de sua tripulação, ele conquistou a consideração e a gratidão de muitas nações, de outros piratas, do Exército Revolucionário e até mesmo de vários marinheiros./nLuffy ganhou grande infâmia por suas realizações, herança sanguínea e imprudência geral, atraindo muitas recompensas grandes, bem como a hostilidade concentrada do Governo Mundial, do Quartel-General da Marinha e do Almirante da Frota Sakazuki em particular. Atualmente, ele é reconhecido como um membro central da Pior Geração, o líder (contra sua vontade) da Grande Frota do Chapéu de Palha e - após derrotar Kaidou durante o Ataque à Onigashima - um dos Quatro Imperadores, com uma recompensa de 3.000.000.000. Após o despertar da Hito Hito no Mi, Modelo: Nika depois de séculos, Luffy também foi aclamado por alguns como a segunda vinda de Joy Boy./nEle é o principal protagonista da série de mangá e anime One Piece."
   },
   {
     "id": 2,
@@ -16,7 +16,8 @@
     "fruta": null,
     "recompensa": "1.111.000.000 Berries",
     "imagem": "img/zoro.jpg",
-    "descricao": "Espadachim que usa três espadas e é o primeiro membro a se juntar à tripulação de Luffy."
+    "descricao": "Espadachim que usa três espadas e é o primeiro membro a se juntar à tripulação de Luffy.",
+    "texto": "Roronoa Zoro , também conhecido como \"Caçador de Piratas\" Zoro, é o mestre espadachim e combatente dos Piratas do Chapéu de Palha, um dos comandantes da Grande Frota do Chapéu de Palha, e é publicamente reconhecido como o braço direito e número dois do capitão de sua tripulação, Monkey D. Luffy./n Anteriormente um caçador de recompensas, ele é o segundo membro da tripulação de Luffy e o primeiro a se juntar a ela, fazendo isso no Arco Romance Dawn. Nascido no East Blue, Zoro é filho de Tera e Roronoa Arashi, neto de Shimotsuki Furiko e Roronoa Pinzoro, e sobrinho-neto de Shimotsuki Ushimaru, tornando-o um descendente da Família Shimotsuki do País de Wano e do lendário samurai, Shimotsuki Ryuma. Como um mestre do Estilo das Três Espadas, um estilo de esgrima que ele criou durante seu treinamento de infância na Vila Shimotsuki, Zoro é um dos três combatentes mais poderosos dos Chapéus de Palha, ao lado de Luffy e Sanji , que são apropriadamente chamados de \"Trio Monstro\"./n Seu sonho é se tornar o maior espadachim do mundo , para honrar uma promessa que fez à sua falecida amiga de infância e prima distante, Kuina. Além de sua infâmia como um dos Chapéus de Palha e como um ex-caçador de recompensas, sua recompensa considerável ao chegar ao Arquipélago de Sabaody fez com que Zoro, junto com Luffy, fosse incluído entre os onze \"Super Novas\", piratas que simultaneamente alcançaram a Linha Vermelha com recompensas de mais de 100.000.000 pouco antes da Guerra dos Melhores. Ele, os outros dez Super Novas e Marshall D. Teach seriam chamados de \"Pior Geração\"./n Zoro ganhou sua primeira recompensa de 60.000.000 após o Arco de Alabasta. Mais tarde, aumentou para 120.000.000 após o incidente de Enies Lobby, e novamente para 320.000.000 após o Arco de Dressrosa. Após o Raid em Onigashima, sua recompensa foi aumentada para 1.111.000.000."
   },
   {
     "id": 3,
@@ -25,7 +26,8 @@
     "fruta": null,
     "recompensa": "366.000.000 Berries",
     "imagem": "img/nami.jpg",
-    "descricao": "Navegadora dos Chapéus de Palha, especialista em clima e mapas."
+    "descricao": "Navegadora dos Chapéus de Palha, especialista em clima e mapas.",
+    "texto": "\"A Gata Ladra\" Nami é a navegadora dos Piratas do Chapéu de Palha e uma das Oficiais Superiores da Grande Frota do Chapéu de Palha. Ela é o terceiro membro da tripulação e o segundo a se juntar, fazendo isso durante o Arco da Cidade Laranja. Ela é a irmã adotiva de Nojiko depois que as duas ficaram órfãs e foram acolhidas por Bell-mère./nEla era anteriormente um membro dos Piratas de Arlong que inicialmente se juntou aos Chapéus de Palha para roubá-los a fim de comprar de volta sua aldeia de Arlong, e serviu como um antagonista de apoio durante o Arco Baratie. No entanto, ela se juntou legitimamente aos Chapéus de Palha depois que eles derrotaram Arlong. Seu sonho é fazer um mapa do mundo inteiro./nEla ganhou uma recompensa de 16.000.000 após o ataque a Enies Lobby. Mais tarde, aumentou para 66.000.000 após o Arco Dressrosa. Após o ataque a Onigashima, sua recompensa foi aumentada para 366.000.000."
   },
   {
     "id": 4,
@@ -34,7 +36,8 @@
     "fruta": null,
     "recompensa": "500.000.000 Berries",
     "imagem": "img/usopp.png",
-    "descricao": "Atirador dos Chapéus de Palha, um grande mentiroso e inventor."
+    "descricao": "Atirador dos Chapéus de Palha, um grande mentiroso e inventor.",
+    "texto": "\"God\" Usopp é o Atirador dos Piratas do Chapéu de Palha. Ele é o quarto membro da tripulação e o terceiro a entrar, fazendo isso no final do Arco Vila Syrup. Embora ele tenha deixado a tripulação durante o Arco Water 7, ele se juntou novamente ao final do Arco Pós-Enies Lobby./nUsopp é o filho de Yasopp e Banchina. Ele nasceu e foi criado na Vila Syrup, e era o \"capitão\" dos Piratas Usopp e o amigo mais próximo de Kaya. Após colaborar com os Chapéus de Palha para derrotar Kuro e os Piratas do Gato Preto, ele foi convidado a se juntar à tripulação. Apesar de sua covardia normal, Usopp sonha em se tornar um corajoso guerreiro do mar como seu pai, e vive todos os dias em busca de viver à altura deste sonho./nEle tem atualmente uma recompensa de 500.000.000. Usopp recebe o posto de 5° Comandante (seguindo a lógica de sua recompensa) já que a marinha o nomeou um dos comandantes do Luffy."
   },
   {
     "id": 5,
@@ -43,6 +46,307 @@
     "fruta": null,
     "recompensa": "1.032.000.000 Berries",
     "imagem": "img/sanji.jpg",
-    "descricao": "Cozinheiro dos Chapéus de Palha, um mulherengo com um grande código de honra."
+    "descricao": "Cozinheiro dos Chapéus de Palha, um mulherengo com um grande código de honra.",
+    "texto": "\"Perna Preta\" Sanji, nascido como Vinsmoke Sanji, e também é o cozinheiro dos Piratas do Chapéu de Palha, assim como um antigo chefe de cozinha do Baratie. Ele também é o terceiro filho e a quarta criança da Família Vinsmoke, tornando-o um príncipe do Reino Germa, até que ele oficialmente os renunciou duas vezes. Apesar de Sanji renunciar ao seu sobrenome Vinsmoke, o Governo Mundial o rotula como parte de seu nome em seu pôster de procurado./nEle é oficialmente o quinto membro da tripulação e o quarto a se juntar, fazendo isso no final do Arco Baratie. Uma vez que ele nasceu no North Blue, ele é o primeiro Chapéu de Palha a não se originar do East Blue./nEle é um dos quatro melhores lutadores da tripulação, ao lado de Luffy, Zoro e Jinbe. Seu sonho é encontrar o paraíso dos chefes, All Blue, sendo esse o lugar onde o East Blue, o West Blue, o North Blue e o South Blue se encontram, juntamente com sua vida selvagem. Devido aos eventos na Ilha de Wano, sua recompensa atual é de 1.032.000.000, dando-lhe a quarta maior recompensa na tripulação, ficando atrás apenas de Luffy, Zoro e Jinbe."
+  },
+  {
+    "id": 6,
+    "nome": "Tony Tony Chopper",
+    "alcunha": null,
+    "fruta": "Hito Hito no Mi",
+    "recompensa": "1.000 Berries",
+    "imagem": "img/chopper.webp",
+    "descricao": "Rena médica dos Chapéus de Palha que se transforma em humano.",
+    "texto": "Tony Tony Chopper era apenas uma rena até comer a Hito Hito no Mi, adquirindo inteligência humana e a capacidade de falar. Rejeitado pelos outros animais por sua diferença, foi acolhido pelo excêntrico Dr. Hiluluk, que o ensinou sobre empatia e sacrifício. Quando Hiluluk morreu, Chopper foi treinado pela genial Dr. Kureha, aperfeiçoando suas habilidades médicas. Ele entrou para a tripulação dos Chapéus de Palha para realizar o sonho de ser um médico capaz de curar qualquer doença, combinando compaixão com bravura — especialmente quando assume formas como Heavy Point e Brain Point. Apesar de tímido, Chopper prova repetidamente que sua coragem supera seu medo, como em Drum e Water 7, salvando amigos com remédios ou mesmo descendo em combate quando necessário."
+  },
+  {
+    "id": 7,
+    "nome": "Nico Robin",
+    "alcunha": "Filha do Demônio",
+    "fruta": "Hana Hana no Mi",
+    "recompensa": "930.000.000 Berries",
+    "imagem": "img/robin.jpg",
+    "descricao": "Arqueóloga que pode fazer brotar membros do corpo em qualquer superfície.",
+    "texto": "Nico Robin, consumidora da Hana Hana no Mi, tem a habilidade de fazer brotar partes do seu corpo em qualquer superfície, habilidade que usa tanto em combate quanto em estudo. Nascida em Ohara, cresceu fugindo da Marinha após a destruição de sua terra natal por investigar os Poneglyphs. Considerada criminosa desde criança, Robin tornou-se especialista em arqueologia e linguística, carrega o peso de ser a única pessoa viva capaz de ler os Poneglyphs — escritos misteriosos que guardam a história do Século Perdido. Rejeitada, ela buscou poder através da corrupção, mas encontrou redenção com os Chapéus de Palha. Sua jornada é de aprender a confiar e amar novamente, passando de uma fugitiva solitária a alguém disposta a sacrificar a própria vida pela tripulação e pelo futuro do mundo."
+  },
+  {
+    "id": 8,
+    "nome": "Franky",
+    "alcunha": "Ciborgue",
+    "fruta": null,
+    "recompensa": "394.000.000 Berries",
+    "imagem": "img/franky.jpeg",
+    "descricao": "Carpinteiro ciborgue que construiu o navio dos Chapéus de Palha.",
+    "texto": "Franky, nascido Cutty Flam, é um engenheiro brilhante que transformou seu corpo em um ciborgue após um grave acidente. Ele construiu e manteve navios poderosos com tecnologia de última geração, incluindo o Thousand Sunny, presente dos Chapéus de Palha ao derrotar seus oponentes. Extremamente expressivo e leal, ele usa sua frase de efeito “SUPER!” para exibir confiança. Apesar de sua aparência exagerada e personalidade teatral, Franky tem um coração sensível, motivado por seu desejo de construir coisas que durem e remédios para os sonhos dos outros. Nos confrontos, ele exibe força bruta com braços gatling e capacidade de voar — mas sua maior conquista é unir engenhosidade e amizade, mostrando que tecnologia e calor humano podem coexistir."
+  },
+  {
+    "id": 9,
+    "nome": "Brook",
+    "alcunha": "Soul King",
+    "fruta": "Yomi Yomi no Mi",
+    "recompensa": "383.000.000 Berries",
+    "imagem": "img/brook.webp",
+    "descricao": "Esqueleto músico que ressuscitou e entrou nos Chapéus de Palha.",
+    "texto": "Brook é um ex-pirata músico que se tornou um esqueleto vivo após comer a Yomi Yomi no Mi. Depois de morrer, seu espírito retornou ao corpo, mas este demorou a ser encontrado, deixando-o vagar sozinho décadas. Com bom humor marcante e frases como “Yohoho”, Brook usa sua música para elevar ânimos e distrair inimigos, enquanto protege seus amigos com ataques de esgrima com sua sabre Soul Solid e poderes de som. Ele carrega a promessa de reencontrar seu antigo companheiro Laboon, cumprindo o sonho de seu passado e lembrando que, mesmo após a morte, vínculos verdadeiros permanecem eternos."
+  },
+  {
+    "id": 10,
+    "nome": "Jinbe",
+    "alcunha": "Cavaleiro do Mar",
+    "fruta": null,
+    "recompensa": "1.100.000.000 Berries",
+    "imagem": "img/jinbe.jpg",
+    "descricao": "Homem-peixe e timoneiro dos Chapéus de Palha.",
+    "texto": "Jinbe, ex-membro dos Piratas do Sol e ex-oficial da Marinha do Barba Branca, domina o Fish-Man Karate com maestria. Conhecido como 'Cavaleiro do Mar', ele defende com firmeza os homens-peixe e prega a paz entre raças, simbolizando justiça e honra. Após ajudar Luffy em várias ocasiões — incluindo a fuga da Impel Down e a guerra de Marineford — ele se alistou oficialmente como timoneiro dos Chapéus de Palha durante a saga Wano. Sua presença traz balanceamento emocional à tripulação, pois ele é paciente, sábio e constantemente relembra todos sobre a importância da fraternidade entre humanos e homens-peixe."
+  },
+  {
+    "id": 11,
+    "nome": "Trafalgar D. Water Law",
+    "alcunha": "Cirurgião da Morte",
+    "fruta": "Ope Ope no Mi",
+    "recompensa": "3.000.000.000 Berries",
+    "imagem": "img/law.webp",
+    "descricao": "Capitão dos Piratas do Coração, aliado de Luffy.",
+    "texto": "Trafalgar D. Water Law, mais conhecido apenas como Trafalgar Law e por seu epíteto \"Cirurgião da Morte\", é um pirata do North Blue e capitão e médico dos Piratas Heart. Ele é um dos doze piratas que são chamados de \"Pior Geração\". Ele se tornou um dos Shichibukai durante o timeskip, mas sua posição foi revogada por se aliar aos Piratas do Chapéu de Palha. Law, como muitos outros piratas, sonha em encontrar o One Piece, mas também deseja conhecer o propósito da Vontade de D./nLaw é o único sobrevivente conhecido de Flevance, uma cidade cujos habitantes sofreram de uma doença conhecida como Doença do Chumbo Branco. Como a doença era fatal e mal compreendida, Flevance foi destruída por países vizinhos por medo (entre as fatalidades estavam os pais e a irmã mais nova de Law), e Law ainda criança escapou com vida por pouco. Posteriormente, ele se juntou aos Piratas Donquixote, onde Donquixote Doflamingo pretendia fazer de Law um de seus oficiais executivos. No entanto, graças aos esforços do irmão de Doflamingo, Rosinante, Law foi salvo da influência dos Piratas Donquixote e se tornou um pirata determinado a derrubar o império de Doflamingo./nDurante o timeskip, sua recompensa aumentou de 200.000.000 para 440.000.000 antes de ser congelada devido à sua entrada nos Shichibukai. No entanto, após ter seu título revogado durante os eventos do Arco Dressrosa, a recompensa de Law foi restabelecida e aumentada para 500.000.000. Eventualmente, sua recompensa foi aumentada para 3.000.000.000 por seu papel na derrota da Big Mom dos Quatro Imperadores ao lado de Eustass Kid durante o Arco País de Wano./nLaw uniu forças com os Piratas do Chapéu de Palha por um breve momento durante o Arco Arquipélago de Sabaody e, mais tarde, salvou a vida de Luffy no final do Arco Marineford. Ele é um dos principais aliados dos Piratas do Chapéu de Palha durante as sagas Dressrosa, Ilha Whole Cake e País de Wano."
+  },
+  {
+    "id": 12,
+    "nome": "Eustass Kid",
+    "alcunha": null,
+    "fruta": "Jiki Jiki no Mi",
+    "recompensa": "3.000.000.000 Berries",
+    "imagem": "img/kid.jpg",
+    "descricao": "Capitão dos Piratas Kid, usuário de magnetismo.",
+    "texto": "Eustass Kid comanda sua tripulação como um dos capitães da \"Pior Geração\". Com corpo modificado por metal e magnetismo, Kid manipula peças metálicas para criar armas ferozes e robóticas. Seu estilo é implacável, impulsivo e sedento por fama e poder. Embora rival de Luffy, ele compartilha ambição de mudar o mundo pirata. Participou da ofensiva em Onigashima, mostrando ferocidade nunca vista, e mesmo derrotado conservou respeito público, deixando claro que sua determinação é indestrutível e pronta para novos desafios."
+  },
+  {
+    "id": 13,
+    "nome": "Marshall D. Teach",
+    "alcunha": "Barba Negra",
+    "fruta": "Yami Yami no Mi / Gura Gura no Mi",
+    "recompensa": "3.996.000.000 Berries",
+    "imagem": "img/teach.jpg",
+    "descricao": "Yonkou manipulador de trevas e terremotos.",
+    "texto": "Marshall D. Teach, mais comumente conhecido por seu epíteto \"Barba Negra\", é o almirante dos Piratas do Barba Negra, e um dos Quatro Imperadores que governam o Novo Mundo. Ele também é a única pessoa conhecida na história a exercer os poderes de duas Frutas do Diabo, além de fazer parte de uma linhagem especial, que é conhecida apenas por um pequeno número de indivíduos, incluindo sua própria tripulação e os Cinco Anciões ./nTeach começou sua carreira pirata como aprendiz dos Piratas do Barba Branca , e mais tarde se tornou membro da 2ª Divisão da tripulação. No entanto, ele assassinou Thatch, o comandante da 4ª Divisão, para roubar a Yami Yami no Mi , uma rara Akuma no Mi Logia baseada na escuridão com o poder de anular as habilidades da Akuma no Mi dos outros. Ele então fugiu da tripulação de Barba Branca e, após derrotar o infame comandante da 2ª Divisão, Portgas D. Ace , e entregá-lo aos fuzileiros navais, foi premiado com uma posição entre os Sete Senhores da Guerra do Mar. Ele apenas ocupou a posição brevemente, porém, usando-a para se infiltrar na grande prisão subaquática Impel Down e escapando com vários prisioneiros infames de Nível 6 recrutados para sua tripulação. Ao chegar à Guerra do Cume de Marineford, ele renunciou ao cargo e assassinou Barba Branca , misteriosamente roubando seu poder de gerar terremotos . Isso, junto com sua vitória na Guerra do Acerto de Contas e a conquista da maioria dos territórios de Barba Branca durante o salto temporal , resultou em seu reconhecimento como um dos Quatro Imperadores, além de ser considerado parte da \"Pior Geração\" junto com os onze Supernovas. Após o Incidente de Rocky Port , ele transformou a ilha de Hachinosu em sua base de operações com a ambição de tê-la oficialmente aceita no Governo Mundial como o Reino do Barba Negra./nTeach inicialmente não tinha nenhuma recompensa; no entanto, após renunciar aos Sete Senhores da Guerra, recrutar vários criminosos perigosos para sua tripulação de Impel Down e se tornar um dos Quatro Imperadores, ele recebeu uma recompensa de 2.247.600.000. Após as quedas de Kaidou e Big Mom durante o Arco do País de Wano , sua recompensa foi aumentada para 3.996.000.000 por razões desconhecidas."
+  },
+  {
+    "id": 14,
+    "nome": "Edward Newgate",
+    "alcunha": "Barba Branca",
+    "fruta": "Gura Gura no Mi",
+    "recompensa": "5.046.000.000 Berries",
+    "imagem": "img/newgate.jpg",
+    "descricao": "Um dos maiores piratas da história, considerado o homem mais forte do mundo.",
+    "texto": "Edward Newgate, mais conhecido como \"Barba Branca\", foi o capitão dos Piratas do Barba Branca e aquele que ficou conhecido como \"O Homem Mais Forte do Mundo\" e \"O Homem Mais Próximo do One Piece\" após a morte de Gol D. Roger./nAntes de formar sua própria tripulação, ele era um membro dos lendários Piratas Rocks e mais tarde ele se tornou um dos Quatro Imperadores que governam o Novo Mundo, antes de sua morte na Batalha de Marineford./nEm seu auge, Barba Branca alcançou o título de \"Homem Mais Forte do Mundo\" muito antes da Grande Era dos Piratas e da morte de Roger que era seu rival, pois tinha um poder imenso e habilidade para destruir o mundo."
+  },
+  {
+    "id": 15,
+    "nome": "Portgas D. Ace",
+    "alcunha": "Punhos de Fogo",
+    "fruta": "Mera Mera no Mi",
+    "recompensa": "550.000.000 Berries",
+    "imagem": "img/ace.jpg",
+    "descricao": "Irmão de Luffy e ex-comandante da 2ª divisão dos Piratas do Barba Branca.",
+    "texto": "Portgas D. Ace, nascido como Gol D. Ace e apelidado de Ace \"Punhos de Fogo\", era o filho biológico do falecido Rei dos Piratas, Gol D. Roger, e Portgas D. Rouge, bem como o irmão mais velho de consideração de Luffy e Sabo. Ace foi adotado por Monkey D. Garp, conforme havia sido solicitado por Roger antes de sua execução. Ace era capitão dos Piratas Spade antes de ser recrutado para os Piratas do Barba Branca e se tornar comandante da sua 2ª divisão. Ele comeu a Mera Mera no Mi, dando-lhe o poder de se transformar e manipular chamas./nDepois que Barba Negra, um membro de sua divisão, cometeu o crime imperdoável de assassinar um companheiro de tripulação e fugir, Ace partiu em uma missão para caçá-lo. Quando Ace finalmente encontrou Barba Negra, porém, um duelo acalorado resultou na derrota de Ace, permitindo que Barba Negra o entregasse ao Governo Mundial. Preocupados com sua linhagem e querendo dar o exemplo, a Marinha condenou Ace à morte, o que resultou na Batalha de Marineford, um choque total de poderes entre Barba Branca e o poder da Marinha e dos Shichibukai. Ace foi libertado, mas antes que ele pudesse escapar de Marineford, ele sacrificou sua vida para proteger Luffy do Almirante da Marinha Akainu."
+  },
+  {
+    "id": 16,
+    "nome": "Sabo",
+    "alcunha": null,
+    "fruta": "Mera Mera no Mi",
+    "recompensa": "602.000.000 Berries",
+    "imagem": "img/sabo.jpg",
+    "descricao": "Segundo no comando do Exército Revolucionário.",
+    "texto": "Sabo, o \"Imperador das Chamas\" é o chefe do estado-maior do Exército Revolucionário, reconhecido como o número 2 de toda a organização, superado apenas pelo Comandante Supremo Monkey D. Dragon. Ele também é o irmão de juramento dos infames piratas Monkey D. Luffy e do falecido Portgas D. Ace./nCriado como nobre por seus pais Outlook III e Didit no Reino Goa, Sabo fugiu aos 10 anos com a intenção de se tornar um pirata e escrever um livro sobre suas viagens, e conheceu Ace e Luffy enquanto vivia como fugitivo no Terminal Cinza. Ele tentou zarpar poucos meses depois para fugir de sua família, mas teve seu navio destruído pelo Nobre Mundial São Jalmack. Ele foi salvo por Dragon, mas perdeu a memória no processo e, assim, dedicou sua vida a serviço do Exército Revolucionário. No entanto, suas memórias retornaram 10 anos depois, quando ele soube da morte de Ace. Dois anos após recuperar suas memórias, Sabo se reuniu com Luffy e também carregou o legado de Ace ao consumir sua Akuma no Mi, a Mera Mera no Mi. Sua recompensa atual é desconhecida."
+  },
+  {
+    "id": 17,
+    "nome": "Nefertari Vivi",
+    "alcunha": null,
+    "fruta": null,
+    "recompensa": null,
+    "imagem": "img/vivi.jpg",
+    "descricao": "Princesa de Alabasta e amiga dos Chapéus de Palha.",
+    "texto": "Nefertari Vivi é a princesa do Reino de Alabasta. Ela é filha de Nefertari Cobra e Titi, e junto com o resto de sua família, ela carrega a inicial D. em seu nome. Durante sua infância, Vivi fez parte do Clã Areia-Areia, sendo a vice-líder do grupo liderado por seu amigo Koza./nVivi estreou como uma das principais antagonistas do Arco Reverse Mountain como uma Caçadora de Recompensas , sob o codinome da Baroque Works, Miss Wednesday. Durante esse tempo, ela fez parceria com o colega Sr. 9. No entanto, após os eventos do Arco Whisky Peak , Vivi e seu pato de estimação Karoo acabaram se juntando aos Piratas do Chapéu de Palha durante a maior parte da Saga Alabasta, uma vez que ela foi descoberta como uma espiã conspirando contra a Baroque Works./nVivi deixou os Chapéus de Palha após derrotar a Baroque Works para ficar em seu país natal, mas ainda é considerada um membro da tripulação e tem acompanhado seu progresso ao longo da série. Depois de participar do Levely mais recente , ela se tornou uma fugitiva depois que Imu e os Cinco Anciões descobriram que ela carregava a inicial \"D.\" e foi forçada a fugir de Mary Geoise e se abrigar ao lado de Wapol a bordo da aeronave de Morgans."
+  },
+  {
+    "id": 18,
+    "nome": "Sakazuki",
+    "alcunha": "Akainu",
+    "fruta": "Magu Magu no Mi",
+    "recompensa": null,
+    "imagem": "img/akainu.jpg",
+    "descricao": "Almirante de Frota da Marinha, usuário de magma.",
+    "texto": "Sakazuki, mais conhecido por seu codinome 'Akainu', é o atual Almirante de Frota da Marinha, tendo ascendido ao cargo após sua    vitória sobre Aokiji no confronto brutal em Punk Hazard. Como usuário da Magu Magu no Mi, uma Akuma no Mi do tipo Logia, Akainu possui a capacidade de se transformar em magma e manipulá-lo com poder avassalador, tornando-se um dos combatentes mais destrutivos e temidos do mundo./nAkainu representa a Justiça Absoluta, um conceito que ele leva ao extremo, acreditando que qualquer ameaça à ordem deve ser erradicada sem hesitação. Essa ideologia o torna inflexível, implacável e cruel, como demonstrado na Guerra de Marineford, onde ele não apenas confrontou Barba Branca sem medo, mas também executou Portgas D. Ace com frieza, deixando uma cicatriz profunda tanto física quanto emocional em Monkey D. Luffy./nSua postura extremista é temida por muitos, inclusive dentro da própria Marinha. Após assumir a liderança da organização, Akainu instituiu uma política ainda mais rígida de controle e combate ao crime, transformando a Marinha em uma força mais severa e militarizada. Sua rivalidade com a liderança do Governo Mundial, incluindo os Cinco Anciões, se acirrou devido a sua independência e postura direta, o que por vezes gera tensões políticas internas./nSakazuki é uma figura trágica à sua maneira, guiado por um código de honra implacável, disposto a sacrificar tudo — inclusive vidas inocentes — pela estabilidade. Embora seu senso de justiça o torne admirado por alguns, ele também é odiado por muitos que o veem como um tirano mascarado de herói./nCom sua liderança impiedosa, Akainu molda os rumos do mundo de One Piece, sendo um dos principais antagonistas ideológicos da era pirata inaugurada por Gol D. Roger e levada adiante por Luffy e seus aliados."
+  },
+  {
+    "id": 19,
+    "nome": "Kuzan",
+    "alcunha": "Aokiji",
+    "fruta": "Hie Hie no Mi",
+    "recompensa": null,
+    "imagem": "img/aokiji.jpg",
+    "descricao": "Ex-almirante da Marinha, usuário de gelo.",
+    "texto": "Kuzan, mais conhecido como Aokiji, é um ex-almirante da Marinha e um dos usuários mais poderosos da Logia Hie Hie no Mi, que lhe concede a habilidade de criar, controlar e se transformar em gelo. Com um comportamento descontraído e aparentemente preguiçoso, Kuzan surpreende por sua incrível capacidade de combate e sua profunda inteligência estratégica./nAo contrário de muitos de seus colegas da Marinha, Kuzan adota uma abordagem mais humanista e flexível sobre a justiça, sendo defensor da chamada 'Justiça Preguiçosa'. Essa postura o colocava frequentemente em conflito com figuras mais radicais, como Akainu. Seu caráter foi moldado em parte por sua admiração pelo antigo vice-almirante Jaguar D. Saul, um dos poucos que desafiou ordens diretas para salvar civis em Ohara./nKuzan foi responsável por salvar Nico Robin quando era criança, congelando o mar ao seu redor para permitir que ela escapasse após o massacre de sua terra natal. Essa atitude contradiz a reputação cruel da Marinha e demonstra sua humanidade — mesmo sendo leal à organização na época./nApós a aposentadoria de Sengoku, Kuzan foi indicado por ele para assumir o posto de Almirante de Frota. No entanto, ao disputar o cargo com Sakazuki (Akainu), recusou-se a aceitar a liderança autoritária do rival. Os dois se enfrentaram em uma batalha épica que durou dez dias em Punk Hazard, deixando a ilha dividida entre fogo e gelo. Derrotado, Kuzan renunciou à Marinha e passou a seguir seu próprio caminho, mantendo seus ideais de justiça pessoal./nMais tarde, foi visto atuando com os Piratas do Barba Negra, levantando questionamentos sobre sua verdadeira lealdade e intenções. Sua atual agenda permanece envolta em mistério, mas uma coisa é certa: Kuzan é um dos personagens mais complexos, imprevisíveis e respeitados do universo de One Piece."
+  },
+  {
+    "id": 20,
+    "nome": "Borsalino",
+    "alcunha": "Kizaru",
+    "fruta": "Pika Pika no Mi",
+    "recompensa": null,
+    "imagem": "img/kizaru.png",
+    "descricao": "Almirante da Marinha, usuário de luz.",
+    "texto": "Borsalino, mais conhecido pelo seu codinome Kizaru, é um dos almirantes mais poderosos da Marinha e usuário da Pika Pika no Mi, uma Akuma no Mi do tipo Logia que lhe permite transformar seu corpo em luz e se mover na velocidade da mesma. Sua presença é marcante por seu tom de voz lento, comportamento despreocupado e um constante ar de desinteresse — o que contrasta fortemente com sua força descomunal e letalidade em combate./nKizaru representa a 'Justiça Ambígua', um reflexo direto de sua personalidade indecifrável e neutralidade diante de muitos dilemas morais. Ele raramente demonstra emoções fortes, e mesmo nas situações mais caóticas mantém uma atitude passiva e sarcástica, o que o torna ainda mais imprevisível./nDurante o Arco de Sabaody, Kizaru foi enviado para conter o caos causado por piratas do mundo todo, e foi lá que ele demonstrou o terror que é um almirante da Marinha em campo de batalha. Movendo-se na velocidade da luz, disparando lasers com o poder destrutivo de canhões e chutando com a força de um míssil, Kizaru derrotou vários Supernovas com facilidade, incluindo X Drake, Urouge, e Hawkins. Sua luta contra Silvers Rayleigh, o lendário vice-capitão dos Piratas do Roger, foi um dos momentos mais marcantes, provando que ele está entre os indivíduos mais fortes da era atual./nApesar de suas capacidades, Kizaru raramente age por impulso. Ele obedece ordens com precisão, mas nunca parece comprometido de coração com elas. Essa dualidade levantou suspeitas sobre sua verdadeira lealdade, especialmente após eventos mais recentes, como sua atuação em Egghead, onde sua hesitação frente a decisões cruéis evidenciou que, por trás de sua fachada apática, existem dilemas internos."
+  },
+  {
+    "id": 21,
+    "nome": "Aramaki",
+    "alcunha": "Ryokugyu",
+    "fruta": "Mori Mori no Mi",
+    "recompensa": null,
+    "imagem": "img/ryokugyu.jpg",
+    "descricao": "Almirante da Marinha, usuário de plantas.",
+    "texto": "Aramaki, também conhecido como Almirante Ryokugyu, é um dos mais recentes oficiais a alcançar o posto máximo da Marinha, substituindo posições deixadas vagas após a Guerra de Marineford. Ele é usuário da Mori Mori no Mi, uma Akuma no Mi do tipo Logia que lhe permite manipular e se transformar em vegetação viva, controlando raízes, cipós e árvores com poder devastador./nApesar de seu posto elevado, Aramaki é uma figura controversa dentro da Marinha. Ele demonstrou atitudes extremas e uma adesão rígida à ‘Justiça Absoluta’, postura semelhante à de Sakazuki. Mostra-se disposto a causar destruição em massa se isso significar manter a ordem e o status do Governo Mundial, e tem uma visão de mundo onde não há espaço para indecisão moral./nCuriosamente, Aramaki passou anos sem comer comida convencional, alegando que sua habilidade com plantas já o alimentava por meio da fotossíntese. Isso contribui para sua figura exótica, além do fato de manter-se isolado por muito tempo antes de agir oficialmente em campo./nSua primeira grande aparição ocorreu após a queda de Kaido e Big Mom, quando tentou capturar Luffy e seus aliados em Wano, desconsiderando totalmente a soberania do país. Sua intervenção foi impedida por Shanks, o que revelou uma tensão entre forças da Marinha e os Imperadores./nAramaki representa uma nova geração de almirantes poderosos e ideológicos, reforçando a ameaça constante que o Governo Mundial representa à liberdade e aos piratas do mundo de One Piece."
+  },
+  {
+    "id": 22,
+    "nome": "Monkey D. Garp",
+    "alcunha": "Herói da Marinha",
+    "fruta": null,
+    "recompensa": null,
+    "imagem": "img/garp.png",
+    "descricao": "Vice-almirante lendário e avô de Luffy.",
+    "texto": "Monkey D. Garp é uma lenda viva da Marinha, conhecido mundialmente como o 'Herói da Marinha' por seus feitos gloriosos durante a Era dos Piratas. Ele é o avô de Monkey D. Luffy e pai de Monkey D. Dragon, o líder do Exército Revolucionário, sendo uma das figuras mais importantes da linhagem D./nMesmo sendo vice-almirante, Garp recusou várias promoções ao posto de almirante por não querer se submeter totalmente às ordens dos Nobres Mundiais. Seu senso de justiça é peculiar — embora acredite na ordem, ele valoriza a liberdade e frequentemente age segundo seus próprios princípios, mesmo que isso o coloque em conflito com o Governo Mundial./nFoi Garp quem travou batalhas lendárias ao lado de Gol D. Roger, unindo forças para derrotar os temíveis Piratas Rocks no incidente de God Valley. Mais tarde, ele capturaria incontáveis piratas perigosos e serviria como o maior empecilho para o avanço de muitas tripulações pelo mundo./nSeu treinamento foi fundamental para Luffy, Ace e Sabo na infância, impondo-lhes uma vida de rigor e perigos para moldá-los em soldados da Marinha, mesmo que nenhum deles tenha seguido esse caminho./nGarp sempre carregou o fardo do amor pela família e o compromisso com a justiça. Durante a Guerra de Marineford, ele foi forçado a testemunhar a execução de Ace, dilacerado entre o dever e o coração — um momento que marcou profundamente sua história./nMesmo em idade avançada, Garp continua sendo uma força brutal, capaz de destruir navios com um único soco e lutar de igual para igual com os mais fortes do mundo. Sua figura representa o ápice da honra militar, mas também a humanidade por trás do uniforme."
+  },
+  {
+    "id": 23,
+    "nome": "Sengoku",
+    "alcunha": "O Buda",
+    "fruta": "Hito Hito no Mi, Modelo: Daibutsu",
+    "recompensa": null,
+    "imagem": "img/sengoku.png",
+    "descricao": "Ex-Almirante de Frota da Marinha.",
+    "texto": "Sengoku, o Buda, é um dos mais respeitados líderes da história da Marinha. Ex-Almirante de Frota, ele comandou a organização durante a era mais caótica da pirataria, sendo o estrategista por trás de muitas das operações mais importantes do Governo Mundial./nÉ usuário da Hito Hito no Mi, Modelo: Daibutsu, uma Zoan Mítica que lhe permite transformar-se em um gigantesco Buda dourado com força e durabilidade absurdas. Esse poder, combinado com seu intelecto tático, o tornou uma ameaça tanto em campo quanto no controle de grandes campanhas./nDurante a Guerra de Marineford, foi ele quem coordenou as forças da Marinha contra Barba Branca, revelando segredos ao mundo, como a verdadeira origem de Ace. Apesar de rígido, Sengoku demonstra grande senso de responsabilidade e sempre priorizou a ordem sobre ambições pessoais. Tinha um relacionamento complexo com Garp, com quem compartilhava anos de batalhas e ideais opostos sobre justiça./nApós a guerra, Sengoku se aposentou oficialmente do cargo, sendo substituído por Sakazuki, mas manteve influência como conselheiro especial. Ele é também um dos poucos que conhecem segredos do Século Perdido e a verdadeira ameaça do 'D.'./nCom aparência serena e comportamento geralmente calmo, Sengoku ainda assim representa uma figura de respeito e poder absoluto — o tipo de líder que moldou uma geração e cujas decisões influenciam o mundo até hoje."
+  },
+  {
+    "id": 24,
+    "nome": "Marco",
+    "alcunha": "Marco, a Fênix",
+    "fruta": "Tori Tori no Mi, Modelo: Fênix",
+    "recompensa": "1.374.000.000 Berries",
+    "imagem": "img/marco.jpg",
+    "descricao": "Ex-comandante da 1ª divisão dos Piratas do Barba Branca.",
+    "texto": "Marco, conhecido como Marco a Fênix, foi o comandante da 1ª divisão dos lendários Piratas do Barba Branca e um dos mais leais homens de Edward Newgate. Usuário da Tori Tori no Mi, Modelo: Fênix — uma Zoan Mítica — ele é capaz de se transformar em uma ave lendária com poderes de regeneração flamejante, simbolizando vida e resiliência./nDurante anos, Marco serviu como braço direito de Barba Branca, sendo responsável por manter a ordem dentro da tripulação e liderar operações em larga escala. Durante a Guerra de Marineford, ele lutou bravamente contra almirantes e Shichibukais, tentando salvar Ace e manter a honra de sua família pirata./nApós a queda de Barba Branca e a derrota na Guerra do Acerto de Contas, Marco retornou à vila natal de seu capitão para protegê-la. Anos depois, juntou-se à aliança contra Kaido, provando que mesmo longe do comando, seu espírito de luta permanecia inabalável./nMarco é calmo, inteligente e extremamente leal. Sua aparência relaxada esconde um guerreiro formidável e um líder nato, cuja influência permanece viva entre as gerações de piratas atuais. Ele é o elo entre o passado glorioso de Barba Branca e os novos tempos que surgem com Luffy e a Pior Geração."
+  },
+  {
+    "id": 25,
+    "nome": "Gol D. Roger",
+    "alcunha": "Rei dos Piratas",
+    "fruta": null,
+    "recompensa": "5.564.800.000",
+    "imagem": "img/roger.jpg",
+    "descricao": "O lendário Rei dos Piratas que conquistou o mundo.",
+    "texto": "Gol D. Roger é a lenda máxima do mundo de One Piece, conhecido como o Rei dos Piratas que navegou até o fim da Grand Line e conquistou o lendário tesouro, o One Piece. Seu nome sozinho provoca respeito, medo e esperança entre piratas e marinhas./nRoger era um homem carismático, imensamente poderoso, com uma vontade indomável e uma risada que ecoava pelos mares. Sua tripulação era formada por alguns dos mais fortes e confiáveis companheiros, incluindo Silvers Rayleigh, seu braço direito, e outros piratas temidos./nDurante sua vida, Roger desvendou os segredos do Século Perdido, visitou a ilha Raftel (hoje conhecida como Laugh Tale) e descobriu a verdade sobre os Poneglyphs, os ancestrais e a história oculta do mundo, um conhecimento que levou à sua execução pelos Governo Mundial./nA sua captura e execução desencadearam a Grande Era dos Piratas, inspirando gerações a saírem ao mar em busca do seu sonho. Roger deixou um legado imortal que moldou a história e o destino dos mares. Mesmo morto, sua influência reverbera, sendo a força motriz por trás das ambições de Luffy e outros piratas notórios."
+  },
+  {
+    "id": 26,
+    "nome": "Silvers Rayleigh",
+    "alcunha": "Rei dos Cavaleiros",
+    "fruta": null,
+    "recompensa": null,
+    "imagem": "img/rayleigh.webp",
+    "descricao": "Ex-vice capitão dos Piratas do Roger e mentor de Luffy.",
+    "texto": "Silvers Rayleigh, o Rei dos Cavaleiros, foi o braço direito de Gol D. Roger, atuando como seu vice-capitão durante a lendária jornada até Raftel. Sua experiência, sabedoria e poder o tornam um dos mais respeitados e temidos ex-piratas do mundo./nApós a queda dos Piratas do Roger, Rayleigh se retirou para a Ilha dos Homens-Peixe, onde viveu uma vida tranquila como um comerciante aposentado, ocultando seu verdadeiro poder e passado de grande notoriedade./nRayleigh é mestre no uso dos três tipos de Haki, com especial domínio no Haki do Rei, capaz de subjugar múltiplos adversários simultaneamente. Foi ele quem treinou Monkey D. Luffy durante os dois anos de timeskip, preparando-o para os desafios da Nova Era dos Piratas./nAlém de sua força bruta, Rayleigh é um estrategista nato, conhecedor profundo da história e dos segredos do mundo, incluindo os Poneglyphs e o Século Perdido. Sua presença inspira respeito até mesmo entre os mais poderosos piratas e autoridades./nCom um passado cheio de aventuras e batalhas épicas, Rayleigh é a ponte viva entre a antiga era dos piratas e o futuro, um mentor fundamental na jornada de Luffy para se tornar o Rei dos Piratas."
+  },
+  {
+    "id": 27,
+    "nome": "Scopper Gaban",
+    "alcunha": "Devorador de Montanhas",
+    "fruta": null,
+    "recompensa": null,
+    "imagem": "img/gaban.webp",
+    "descricao": "Membro da tripulação de Gol D. Roger.",
+    "texto": "Scopper Gaban , também conhecido como o \"Devorador de Montanhas\", é um lendário pirata aposentado e ex- navegador dos Piratas Roger. Dizem que sua fama rivaliza com a de seus companheiros de tripulação Gol D. Roger e Silvers Rayleigh , sendo conhecido como a \"Mão Esquerda do Rei Pirata\". Após a dissolução dos Piratas Roger e a execução de Roger, Gaban veio viver sua aposentadoria em Elbaph , ao lado de seu parceiro Ripley e seu filho Colon , sendo conhecido pelos gigantes locais como Ya-san./n Apresentado pela primeira vez na sequência de flashbacks de Buggy no Arco Orange Town e mais tarde visto nos flashbacks de Kouzuki Oden durante seu tempo com os Piratas Roger, Gaban fez sua estreia atual na série através da história de capa \"From the Decks of the World\" , antes de eventualmente desempenhar um papel ativo no enredo principal durante o Arco Elbaph ."
+  },
+  {
+    "id": 28,
+    "nome": "Charlotte Linlin",
+    "alcunha": "Big Mom",
+    "fruta": "Soru Soru no Mi",
+    "recompensa": "4.388.000.000 Berries",
+    "imagem": "img/big-mom.jpg",
+    "descricao": "Uma das Quatro Imperadoras, rainha tirana da Totto Land.",
+    "texto": "Charlotte Linlin, conhecida como Big Mom, é uma das mais temidas e poderosas Quatro Imperadoras do Novo Mundo. Dona da fruta Soru Soru no Mi, ela pode manipular almas, extrair vida de seus inimigos e infundir poder a objetos e seres vivos, tornando-se praticamente invencível em combate direto./nBig Mom governa a Totto Land, uma enorme aliança de ilhas e territórios onde diferentes raças coexistem sob seu domínio autoritário. Ela mantém uma família numerosa e poderosa, com seus filhos exercendo cargos e funções estratégicas em sua organização./nSua personalidade é marcada por extremos — alternando entre momentos de afeto quase maternal e explosões de fúria destruidora, capazes de devastar cidades inteiras. Sua busca por poder e controle a torna imprevisível e terrível adversária, capaz de unir forças enormes para esmagar seus inimigos./nApesar de sua brutalidade, Big Mom mantém complexas alianças políticas com outros Imperadores e o Governo Mundial, usando a diplomacia e o medo para assegurar sua posição./nEla é uma força da natureza, simbolizando tanto a opressão quanto a complexidade do poder pirata no Novo Mundo, e seu confronto com Luffy e seus aliados é um dos pontos centrais da saga atual."
+  },
+  {
+    "id": 29,
+    "nome": "Charlotte Katakuri",
+    "alcunha": null,
+    "fruta": "Mochi Mochi no Mi",
+    "recompensa": "1.057.000.000 Berries",
+    "imagem": "img/katakuri.jpg",
+    "descricao": "Um dos filhos mais fortes de Big Mom.",
+    "texto": "Charlotte Katakuri é o mais forte dos filhos da Imperatriz Big Mom e um dos comandantes mais temidos dos Piratas da Big Mom. Usuário da fruta Mochi Mochi no Mi, uma Akuma no Mi do tipo Logia que lhe concede a habilidade de criar, controlar e se transformar em mochi, Katakuri domina técnicas únicas de combate que combinam velocidade, força e versatilidade incomparáveis. Além disso, ele possui o raro Haki da Observação em um nível avançado, sendo capaz de prever movimentos futuros com precisão quase perfeita, o que o torna um adversário quase invencível./nKatakuri é conhecido por sua personalidade austera, disciplinada e altamente protetora com sua família, especialmente com seus irmãos mais novos e a mãe, Big Mom. Apesar de sua aparência intimidadora e comportamento rígido, ele possui um senso de honra e um código moral próprio, valorizando o respeito nos combates e a força verdadeira./nSua batalha contra Luffy no Arco Whole Cake Island foi um dos momentos mais épicos da série, onde exibiu toda sua habilidade, resistência e inteligência tática. Durante o confronto, Katakuri revelou sua vulnerabilidade emocional, demonstrando que mesmo os mais poderosos têm suas fraquezas e complexidades internas./nKatakuri representa a força suprema e o equilíbrio entre poder e responsabilidade dentro dos Piratas da Big Mom, sendo um símbolo do legado da família Charlotte no mundo pirata e um dos personagens mais fascinantes e profundos de One Piece."
+  },
+  {
+    "id": 30,
+    "nome": "Charlotte Cracker",
+    "alcunha": null,
+    "fruta": "Bisu Bisu no Mi",
+    "recompensa": "860.000.000 Berries",
+    "imagem": "img/cracker.webp",
+    "descricao": "Comandante doce dos Piratas da Big Mom.",
+    "texto": "Charlotte Cracker é um dos filhos mais poderosos da Imperatriz Big Mom e um dos comandantes mais temidos dos Piratas da Big Mom. Usuário da Akuma no Mi Bisu Bisu no Mi, ele tem a habilidade única de criar e controlar soldados feitos de biscoito indestrutíveis, que ele usa para atacar em grande número e proteger a si mesmo. Seu estilo de luta combina brutalidade e estratégia, tornando-o um adversário formidável no campo de batalha./nCracker é conhecido por sua personalidade fria e implacável, raramente demonstrando emoções além da determinação feroz em cumprir as ordens de sua mãe e proteger o território da família Charlotte. Ele participou ativamente da defesa do território da Big Mom durante eventos cruciais, como a invasão de Whole Cake Island, enfrentando os Chapéus de Palha em combates intensos e decisivos./nAlém de seu poder físico e das habilidades de sua fruta, Cracker demonstra inteligência tática, coordenando seus exércitos de biscoitos com precisão mortal. Sua presença impõe respeito e medo, refletindo a força bruta e a influência dos Piratas da Big Mom no Novo Mundo. Cracker representa a combinação de poder, lealdade e crueldade típica dos filhos da Imperatriz, e é um dos maiores obstáculos enfrentados pelos piratas que desafiam o domínio de Big Mom."
+  },
+  {
+    "id": 31,
+    "nome": "Donquixote Doflamingo",
+    "alcunha": "Joker",
+    "fruta": "Ito Ito no Mi",
+    "recompensa": "340.000.000 Berries",
+    "imagem": "img/doflamingo.jpg",
+    "descricao": "Ex-Shichibukai e ex-rei de Dressrosa.",
+    "texto": "Donquixote Doflamingo, também conhecido como Joker, é um dos vilões mais complexos e perigosos do mundo de One Piece. Ex-membro dos Shichibukai, ele exerce enorme influência tanto no submundo pirata quanto nos bastidores do Governo Mundial. Usuário da fruta Ito Ito no Mi, Doflamingo tem o poder de criar e controlar fios quase invisíveis, que usa para manipular pessoas como marionetes, desferir ataques precisos e até mesmo se mover pelos céus com extrema agilidade./nSua história é marcada por tragédias pessoais e ambições desmedidas. Nascido em uma família celestial, ele sofreu a queda e o exílio após seu pai renunciar ao status dos Tenryuubito, o que despertou nele um ódio profundo contra o mundo e suas injustiças. Doflamingo construiu seu império criminoso, tornando-se um tirano impiedoso que controla a ilha de Dressrosa com mão de ferro e manipulação./nAlém de seu poder brutal, ele é um estrategista mestre, capaz de arquitetar planos complexos que envolvem política, crime e guerra. Sua influência no mercado negro e conexões com organizações sombrias fazem dele uma ameaça constante para piratas e governos./nSua batalha contra Luffy e seus aliados foi um dos momentos mais decisivos da saga, revelando toda a extensão de sua crueldade e força. Doflamingo simboliza a corrupção, o poder absoluto e a luta entre justiça e tirania no mundo de One Piece, sendo um adversário que marcou para sempre a história do Novo Mundo."
+  },
+  {
+    "id": 32,
+    "nome": "Dracule Mihawk",
+    "alcunha": "Olhos de Falcão",
+    "fruta": null,
+    "recompensa": "3.590.000.000 Berries",
+    "imagem": "img/mihawk.jpg",
+    "descricao": "O maior espadachim do mundo e Shichibukai.",
+    "texto": "Dracule Mihawk, conhecido como Olhos de Falcão, é o maior espadachim vivo do mundo de One Piece, reconhecido por sua habilidade incomparável com a espada e sua postura fria e implacável. Como ex-Shichibukai, ele é uma figura misteriosa e temida, cujo nome evoca respeito e temor em iguais medidas./nMihawk é um guerreiro solitário, que busca a perfeição em sua arte. Sua espada negra, Yoru, é uma das doze espadas saiyō, considerada uma das mais poderosas e raras do mundo. Seu estilo de luta é elegante e mortal, capaz de cortar praticamente qualquer coisa com facilidade./nAo longo dos anos, ele manteve uma rivalidade amigável com Roronoa Zoro, reconhecendo seu potencial e treinando-o indiretamente para que um dia se torne o maior espadachim do mundo./nApesar de sua frieza aparente, Mihawk é um homem de princípios claros, que valoriza a força e a honra acima de tudo. Ele não se envolve em lutas desnecessárias, mas quando luta, demonstra um poder devastador que pode mudar o rumo de batalhas inteiras./nSua presença na história é fundamental para a evolução de Zoro e para os desafios que aguardam Luffy e seus companheiros na busca pelo One Piece."
+  },
+  {
+    "id": 33,
+    "nome": "Shanks",
+    "alcunha": "O Ruivo",
+    "fruta": null,
+    "recompensa": "4.048.900.000 Berries",
+    "imagem": "img/shanks.webp",
+    "descricao": "Yonkou e ex-membro da tripulação de Gol D. Roger.",
+    "texto": "Shanks, o Ruivo, é um dos mais influentes e poderosos Quatro Imperadores dos Mares, conhecido por seu carisma, força e pela habilidade diplomática que o distingue dos demais. Ex-membro dos Piratas do Rei dos Piratas, ele tem uma história profundamente entrelaçada com a de Gol D. Roger e Monkey D. Luffy./nShanks perdeu seu braço esquerdo salvando Luffy quando este era criança, um ato que definiu o futuro do jovem e o inspirou a se tornar pirata. Sua atitude tranquila, mas firme, transmite uma aura de autoridade e respeito natural, capaz de deter conflitos apenas com sua presença./nÉ mestre em Haki, principalmente no Haki do Rei, com uma força que intimida até os mais temidos guerreiros. Shanks mantém uma postura mais pacífica, evitando confrontos diretos a menos que estritamente necessário, mostrando uma faceta rara entre os piratas./nAlém disso, ele mantém contato com o Governo Mundial e participou de reuniões importantes para evitar guerras catastróficas, o que revela sua influência política e estratégica. Seu navio e tripulação são respeitados e temidos, e sua palavra carrega peso enorme no mundo./nShanks é uma figura misteriosa e decisiva na história atual, com conexões profundas ao passado e papel fundamental nos eventos futuros que moldarão o destino dos mares."
+  },
+  {
+    "id": 34,
+    "nome": "Kaido",
+    "alcunha": "Kaido das Cem Feras",
+    "fruta": "Uo Uo no Mi, Modelo: Seiryu",
+    "recompensa": "4.611.100.000 Berries",
+    "imagem": "img/kaido.jpg",
+    "descricao": "Capitão dos Piratas das Feras e um dos Quatro Imperadores, Kaido é conhecido como a criatura mais forte do mundo.",
+    "texto": "Kaido das Cem Feras é um dos Quatro Imperadores do Mar, conhecido como a \"criatura mais forte do mundo\". Capitão dos Piratas das Feras e ex-aprendiz dos lendários Piratas do Rocks, Kaido dominou o Novo Mundo com força esmagadora, ambição tirânica e um exército formado por usuários de Smile — frutas artificiais que criam híbridos de humanos e animais./nKaido possui a Uo Uo no Mi, Modelo: Seiryu, uma Akuma no Mi do tipo Zoan Mítica que lhe permite se transformar em um dragão oriental colossal. Nessa forma, ele pode voar, manipular nuvens flamejantes, disparar rajadas explosivas e devastar regiões inteiras com facilidade./nDurante décadas, controlou o País de Wano em aliança com o Shogun Orochi, escravizando o povo e explorando seus recursos. Seu domínio só foi desafiado por uma aliança de samurais, piratas e ninjas liderada por Luffy e os Vingadores de Wano no evento conhecido como o Ataque a Onigashima. A batalha culminou em um confronto titânico entre Kaido e Luffy, no qual Kaido foi finalmente derrotado após o despertar do verdadeiro poder da Hito Hito no Mi, Modelo: Nika./nKaido é notório por sua obsessão com a morte gloriosa em combate. Tentou tirar a própria vida inúmeras vezes sem sucesso, o que só alimentou sua reputação como ser indestrutível. Seu ideal de mundo gira em torno da guerra eterna como única forma verdadeira de existência, o que o torna um dos antagonistas mais temíveis, poderosos e complexos da obra./nKaido também é pai de Yamato e tem uma história marcada por solidão, traições e ideais distorcidos sobre poder e liberdade, tornando sua trajetória tão trágica quanto imponente./nDepois de ser derrotado por Luffy, Kaidou foi destituído de sua posição como Yonkou."
+  },
+  {
+    "id": 35,
+    "nome": "Boa Hancock",
+    "alcunha": "A Princesa Serpente",
+    "fruta": "Mero Mero no Mi",
+    "recompensa": "1.434.000.000 Berries",
+    "imagem": "img/hancock.webp",
+    "descricao": "Capitã das Kuja e Shichibukai.",
+    "texto": "Boa Hancock, conhecida como a Princesa Serpente, é a capitã das Kuja, um poderoso grupo de guerreiras do arquipélago de Amazon Lily, e uma das Shichibukai. Usuária da Mero Mero no Mi, uma Akuma no Mi que permite transformar em pedra aqueles que sentem desejos ou sentimentos fortes por ela./nHancock é uma mulher de beleza estonteante e personalidade forte, que combina sua autoridade régia com uma certa arrogância e orgulho. Apesar disso, ela demonstra um lado vulnerável e apaixonado, especialmente por Monkey D. Luffy, a quem dedicou um amor sincero e protetor./nSua força em combate é impressionante, combinando habilidades de Haki, poderes de sua fruta e técnicas de combate corpo a corpo das Kuja. Ela mantém a ilha de Amazon Lily protegida contra invasores e inimigos com mão de ferro e destreza inigualável./nAlém de sua força e beleza, Hancock é uma personagem complexa, marcada por um passado doloroso de escravidão e superação, que moldou sua visão de mundo e suas motivações atuais. Seu relacionamento com Luffy desafia as convenções do mundo pirata, revelando facetas humanas mesmo em meio à crueldade dos mares."
   }
 ]

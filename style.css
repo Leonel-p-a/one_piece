@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(to bottom, #0f1427, #4260cb, #71abc4);
+  background: linear-gradient(to right, #0f1427, #3c497a, #71abc4);
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -41,7 +41,7 @@ header img {
 
 main {
   width: 100%;
-  max-width: 600px;
+  max-width: 1200px;
 }
 
 ul#characterList {
@@ -69,4 +69,42 @@ ul#characterList li:hover {
 
 .hidden {
   display: none;
+}
+
+.main-pagina-personagem {
+  background-color: #f9f9f9;
+  color: #000;
+  padding: 15px;
+}
+
+main a {
+  color: red;
+}
+
+#nomeEAlcunhaPersonagem,
+#imagemPersonagem {
+  padding: 15px 0;
+}
+
+#nomeEAlcunhaPersonagem,
+#recompensaPersonagem,
+#frutaPersonagem {
+  font-weight: bold;
+}
+
+#nomeEAlcunhaPersonagem {
+  font-size: 1.5rem;
+}
+
+img#imagemPersonagem {
+  max-width: 300px;
+  display: block;
+}
+
+#recompensaPersonagem {
+  font-style: italic;
+}
+
+#textoPersonagem {
+  white-space: pre-wrap;
 }

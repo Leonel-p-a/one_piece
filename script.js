@@ -10,7 +10,7 @@ async function buscarDados() {
 
         todosOsPersonagens = await resposta.json();
     } catch (error) {
-        console.log("Erro: ", error);
+        console.log("Erro ao buscar dados: ", error);
         todosOsPersonagens = [];
     }
 }
@@ -37,6 +37,8 @@ function exibirLista(resultados) {
         const item = document.createElement('li');
         item.textContent = personagem.nome + (personagem.alcunha ? ` — ${personagem.alcunha}` : '');
         lista.appendChild(item);
+
+        item.addEventListener('click', () => redirecionarParaPaginaDePersonagens(personagem.id));
     });
 
     lista.classList.remove('hidden');
@@ -61,3 +63,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         exibirLista(resultados);
     });
 });
+
+function redirecionarParaPaginaDePersonagens(id) {
+    window.location.href = 'html/personagem.html?id=' + id;
+}
