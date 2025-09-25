@@ -2,10 +2,10 @@ let todosOsPersonagens = [];
 
 async function buscarDados() {
     try {
-        const resposta = await fetch('personagens.json');
+        const resposta = await fetch('assets/data/personagens.json');
 
         if (!resposta.ok) {
-            throw new Error(`Erro HTTP: ${resposta.status}`);        
+            throw new Error(`Erro HTTP: ${resposta.status}`);
         }
 
         todosOsPersonagens = await resposta.json();
@@ -65,5 +65,5 @@ document.addEventListener('DOMContentLoaded', async function() {
 });
 
 function redirecionarParaPaginaDePersonagens(id) {
-    window.location.href = 'html/personagem.html?id=' + id;
+    window.location.href = 'pages/personagem.html?id=' + id;
 }
